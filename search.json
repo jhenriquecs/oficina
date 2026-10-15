@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Manual WhatsApp Pulsar",
+    "section": "",
+    "text": "Apresentação\nO WhatsApp é o aplicativo de mensagens mais usado no Brasil. Com ele é possível conversar por texto, mandar áudios, fotos, vídeos e documentos, fazer ligações de voz e vídeo, participar de grupos e acompanhar as novidades dos contatos.\nEste manual apresenta as principais funções do WhatsApp, uma a uma, com imagens reais das telas. As capturas foram feitas no WhatsApp Web, a versão que funciona no navegador do computador. Sempre que o caminho for diferente no celular, o texto indica os passos para o aplicativo do telefone.",
+    "crumbs": [
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#como-usar-este-manual",
+    "href": "index.html#como-usar-este-manual",
+    "title": "Manual WhatsApp Pulsar",
+    "section": "Como usar este manual",
+    "text": "Como usar este manual\nCada capítulo trata de um grupo de funções e pode ser lido sozinho. Quem está começando deve seguir a ordem dos capítulos; quem já usa o WhatsApp pode ir direto ao assunto pelo sumário.\nOs passos aparecem numerados. Os nomes de botões e menus estão em negrito, exatamente como aparecem na tela. As teclas do computador aparecem assim: Ctrl + Alt + N.\n\n\n\n\n\n\nNoteSobre as imagens\n\n\n\nPara proteger a privacidade, nomes, fotos, números de telefone e o conteúdo das conversas foram borrados em todas as capturas. Os menus, botões e textos do próprio aplicativo continuam visíveis.",
+    "crumbs": [
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#organização",
+    "href": "index.html#organização",
+    "title": "Manual WhatsApp Pulsar",
+    "section": "Organização",
+    "text": "Organização\n\n\n\n\n\n\n\nParte\nO que você vai aprender\n\n\n\n\nPrimeiros passos\nO que é o WhatsApp, a tela inicial e o perfil\n\n\nConversas\nIniciar conversas, escrever, mandar emojis, áudios e arquivos, reagir, responder e organizar\n\n\nGrupos, comunidades e canais\nCriar grupos, entender comunidades e seguir canais\n\n\nStatus e ligações\nPublicar status e fazer chamadas de voz e vídeo\n\n\nConfigurações e segurança\nAjustar notificações, aparência, privacidade e proteger a conta\n\n\nApêndices\nAtalhos do teclado e glossário de termos",
+    "crumbs": [
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "basico/perfil.html",
+    "href": "basico/perfil.html",
+    "title": "1  Perfil",
+    "section": "",
+    "text": "1.1 Abrir o perfil\nO perfil reúne as informações que os seus contatos veem sobre você: foto, nome e recado.\nNo celular, o caminho é três pontinhos &gt; Configurações e depois toque na sua foto (Android) ou Configurações &gt; sua foto (iPhone).",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Perfil</span>"
+    ]
+  },
+  {
+    "objectID": "basico/perfil.html#abrir-o-perfil",
+    "href": "basico/perfil.html#abrir-o-perfil",
+    "title": "1  Perfil",
+    "section": "",
+    "text": "Clique na sua foto, no canto de baixo da barra lateral (ícone Você). Abre a tela de configurações (?fig-configuracoes, no ?sec-configuracoes).\nClique em Perfil. Aparece a tela Editar perfil (Figure 1.1).\n\n\n\n\n\n\n\n\nFigure 1.1: Tela Editar perfil, com foto, recado, nome, nome de usuário e telefone borrados.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Perfil</span>"
+    ]
+  }
+]
